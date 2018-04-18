@@ -13,18 +13,19 @@ try {
     //Server settings
     //$mail->SMTPDebug = 2;                                 // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
-    $mail->Host = "send.one.com";  // Specify main and backup SMTP servers
+    $mail->Host = "";  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = "fax@gmc-corporation.de";                 // SMTP username
-    $mail->Password = "inchallah";                           // SMTP password
+    $mail->Username = "";                 // SMTP username
+    $mail->Password = "";                           // SMTP password
     $mail->SMTPSecure = "tls";                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
-    $adress="arafet.benamor@aol.com";
+    $adress="";
     $mail->setFrom("fax@gmc-corporation.de");
     $mail->addAddress($adress);     // Add a recipient
-    $mail->addAddress('bani.hel@googlemail.com');               // Name is optional
+    $mail->addAddress('');               // Name is optional
+    
     //$mail->addReplyTo('info@example.com', 'Information');
     //$mail->addCC('cc@example.com');
     //$mail->addBCC('bcc@example.com');
