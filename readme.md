@@ -1,4 +1,4 @@
-# LoginscriptTestfile
+# LoginScriptTo3S
 
 Dies ist ein simpler Loginscript, Leider Fehlt uns eine ausführliche Doku aber wir arbeiten daran. 
 Die Nutzung des Script ist nicht Möglich da keine Datenbankanbidung im script vorhanden ist. 
