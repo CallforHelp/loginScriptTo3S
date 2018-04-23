@@ -4,6 +4,6 @@ Dies ist ein simpler Loginscript, Leider Fehlt uns eine ausführliche Doku aber 
 Die Nutzung des Script ist nicht Möglich da keine Datenbankanbidung im script vorhanden ist. 
 aber eien Verlinkung wird bald eingerichtet mit einen ensprechenden Test-User öffentlich gemacht. 
 
-Das Design ist mit bootstraü erstellt und wird in den nächsten commits geändert. 
+Das Design ist mit bootstrap erstellt und wird in den nächsten commits geändert. 
  
- ![test](https://github.com/CallforHelp/loginscriptTestFile/blob/master/Login/screenshot/geschBereich.JPG)
+ ![LoginFirstPage](https://github.com/CallforHelp/loginscriptTestFile/blob/master/Login/screenshot/geschBereich.JPG)
