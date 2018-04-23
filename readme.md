@@ -6,4 +6,4 @@ aber eien Verlinkung wird bald eingerichtet mit einen ensprechenden Test-User ö
 
 Das Design ist mit bootstraü erstellt und wird in den nächsten commits geändert. 
  
- ![test](loginscriptTestFile/Login/screenshot/login.JPG)
+ ![test](https://github.com/CallforHelp/loginscriptTestFile/blob/master/Login/screenshot/geschBereich.JPG)
