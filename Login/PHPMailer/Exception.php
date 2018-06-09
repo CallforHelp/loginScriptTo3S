@@ -1,5 +1,5 @@
 <?php
-/**
+/**This is File is Copied from The Project 
  * PHPMailer Exception class.
  * PHP Version 5.5.
  *
