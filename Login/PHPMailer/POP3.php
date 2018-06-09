@@ -1,5 +1,6 @@
 <?php
 /**
+ * This is File is Copied from The Project  The PHPMailer
  * PHPMailer POP-Before-SMTP Authentication Class.
  * PHP Version 5.5.
  *

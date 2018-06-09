@@ -1,5 +1,6 @@
 <?php
 /**
+ * This is File is Copied from The Project  The PHPMailer
  * PHPMailer - PHP email creation and transport class.
  * PHP Version 5.5.
  *
